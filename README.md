@@ -107,9 +107,8 @@ I care a lot about:
 
 ## 📫 Connect
 
-- 💼 LinkedIn: _add your link here_
-- 📧 Email: _add your email here_
-- 🌐 Portfolio / Site: _add if/when you spin one up_
+- 💼 [LinkedIn](https://www.linkedin.com/in/joecorella/)
+- 📧 [Email](mailto:jac572@pitt.edu)
 
 If you’re working on:
 - audit / risk / forensic analytics,
