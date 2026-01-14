@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Node/JS and it's ecosystem, vision learning models, and self-supervised learning.**
 
-- 💬 Ask me about **Modding, jailbreaking, data-intensive projects**
+- 💬 Ask me about **data analysis, predtiction modeling, modding/sideloading, jailbreaking, and in general any data-intensive project**
 
 - 📫 How to reach me **jac572@pitt.edu**
 
