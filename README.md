@@ -2,8 +2,6 @@
 
 ### I am a Business Analytics and Accounting student at the University of Pittsburgh who is passionate about data, automation, and problem solving.
 
-[![Follow @masodori](https://img.shields.io/twitter/follow/username.svg?style=for-the-badge&logo=twitter&logoColor=white&label=Follow%20%40username&color=1DA1F2)](https://twitter.com/username)   
-
 - 🔭 I'm currently working on **deobfuscation of mobile apps to learn about application api calls, AI tools to support local accounting firms (*Aptura*), and reverse engineering homework web apps.**
 
 - 🌱 I'm currently learning **Node/JS and it's ecosystem, vision learning models, and self-supervised learning.**
